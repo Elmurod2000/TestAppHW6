@@ -27,7 +27,7 @@ public class MathTest {
 
     @Test
     public void letterAdd(){
-j        assertEquals("Буквы нельзя",math.add("2","a"));
+      assertEquals("Буквы нельзя",math.add("2","a"));
     }
 
     @Test
